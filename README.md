@@ -1,6 +1,6 @@
 # Google Docs Clone
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive Google Docs Clone Application - Works on Android, iOS & Web! 
 
 ## Features
 - Google Authentication
